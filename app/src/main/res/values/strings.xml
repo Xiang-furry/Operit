@@ -7714,6 +7714,12 @@
     <string name="service_running_http_listening">外部 HTTP 正在监听端口 %1$d</string>
     <string name="service_running_with_http">%1$s · 外部 HTTP %2$d</string>
     <string name="service_voice_floating_window">语音悬浮窗</string>
+    <!-- 上流体云 / Android 16 Live Updates -->
+    <string name="service_live_update_short_critical_idle">待机</string>
+    <string name="service_live_update_short_critical_busy">处理中</string>
+    <string name="service_live_update_short_critical_paused">已暂停</string>
+    <string name="service_live_update_enable">在流体云/实时活动中显示 AI 进度</string>
+    <string name="service_live_update_enable_desc">在支持的设备（如 ColorOS 流体云、Android 16 Live Updates）上，将 AI 运行进度显示在状态栏胶囊中。</string>
     <string name="service_turn_off_wake">关闭唤醒</string>
     <string name="service_turn_on_wake">开启唤醒</string>
     <string name="service_exit">退出</string>
