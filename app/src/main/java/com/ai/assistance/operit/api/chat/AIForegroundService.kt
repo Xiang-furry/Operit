@@ -1003,6 +1003,7 @@ class AIForegroundService : Service() {
                     }
             } catch (e: Exception) {
                 if (e is kotlinx.coroutines.CancellationException) throw e
+                if (e is kotlinx.coroutines.CancellationException) throw e
                 AppLogger.e(TAG, "监听上流体云设置失败: ${e.message}", e)
             }
         }
