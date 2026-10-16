@@ -7518,4 +7518,9 @@
     <string name="token_activity_chart_tap_hint">차트를 탭하여 자세한 데이터 보기</string>
     <string name="token_activity_total_tokens">누적 토큰</string>
     <string name="token_activity_peak_tokens">최대 토큰</string>
+    <string name="service_live_update_short_critical_idle">대기 중</string>
+    <string name="service_live_update_short_critical_busy">처리 중</string>
+    <string name="service_live_update_short_critical_paused">일시 중지됨</string>
+    <string name="service_live_update_enable">유체 클라우드/라이브 업데이트에 AI 진행 상황 표시</string>
+    <string name="service_live_update_enable_desc">지원 기기(예: ColorOS 유체 클라우드, Android 16 라이브 업데이트)에서 AI 실행 진행 상황을 상태 표시줄 캡슐에 표시합니다.</string>
 </resources>
