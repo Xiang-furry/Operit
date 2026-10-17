@@ -297,9 +297,14 @@
     <string name="test_media_unverified">接続できましたが、確認できませんでした</string>
     <string name="test_result_expand">展開</string>
     <string name="test_result_collapse">折りたたむ</string>
+    
+    
+    
+    
+    
     <string name="service_live_update_short_critical_idle">待機中</string>
     <string name="service_live_update_short_critical_busy">処理中</string>
     <string name="service_live_update_short_critical_paused">一時停止</string>
-    <string name="service_live_update_enable">流体クラウド/ライブアップデートにAIの進捗を表示</string>
-    <string name="service_live_update_enable_desc">対応デバイス（ColorOS 流体クラウド、Android 16 Live Updates など）で、AIの実行進捗をステータスバーのカプセルに表示します。</string>
+    <string name="service_live_update_enable">ライブアップデート / Fluid Cloud に AI の進捗を表示</string>
+    <string name="service_live_update_enable_desc">対応デバイス（ColorOS Fluid Cloud、Android 16 Live Updates など）で、AI の実行進捗をステータスバーのカプセルに表示します。</string>
 </resources>
