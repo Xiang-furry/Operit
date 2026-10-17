@@ -7820,4 +7820,9 @@ Ahora puede usar el modo AutoGLM en la interfaz de conversación.</string>
     <string name="token_stats_trends">Análisis de tendencias</string>
     <string name="token_stats_settings">Configuración de estadísticas</string>
     <string name="token_stats_custom_range_confirm">Aceptar</string>
+    <string name="service_live_update_short_critical_idle">En espera</string>
+    <string name="service_live_update_short_critical_busy">Procesando</string>
+    <string name="service_live_update_short_critical_paused">En pausa</string>
+    <string name="service_live_update_enable">Mostrar el progreso de la IA en Live Update / Fluid Cloud</string>
+    <string name="service_live_update_enable_desc">En dispositivos compatibles (p. ej., ColorOS Fluid Cloud, Android 16 Live Updates), muestra el progreso de la IA en la capsula de la barra de estado.</string>
 </resources>
